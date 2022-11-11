@@ -1,5 +1,5 @@
-const main = () => {
-    return <div>asdasdad</div>;
+const Main = () => {
+    return <div>안녕!@#</div>;
 };
 
-export default main;
+export default Main;
